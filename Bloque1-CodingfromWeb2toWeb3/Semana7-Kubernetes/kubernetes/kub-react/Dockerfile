@@ -1,0 +1,15 @@
+FROM node as build
+
+WORKDIR /app
+
+COPY ./package.json .
+
+RUN yarn
+
+COPY . .
+
+RUN yarn build
+
+FROM nginx
+COPY --from=build /app/dist /usr/share/nginx/html
+
