@@ -1,0 +1,106 @@
+{
+    "header": {
+        "nombre": "MyCompany",
+        "links": [
+            {
+                "texto": "blog",
+                "url": "http://blog.com"
+            },
+            {
+                "texto": "youtube",
+                "url": "http://youtube.com"
+            }
+        ]
+    },
+    "precios": [
+        {
+            "titulo": "free",
+            "precio": "$0",
+            "por": "month",
+            "texto": "Sign up for free",
+            "features": [
+                "10 users included",
+                "2GB",
+                "Email ",
+                "Help Center cripto"
+            ]
+        },
+        {
+            "titulo": "pro",
+            "precio": "$0",
+            "por": "month",
+            "texto": "Sign up for free",
+            "features": [
+                "10 users included",
+                "2GB",
+                "Email ",
+                "Help Center cripto"
+            ]
+        },
+        {
+            "titulo": "enterprise",
+            "precio": "$0",
+            "por": "month",
+            "texto": "Sign up for free",
+            "features": [
+                "10 users included",
+                "2GB",
+                "Email ",
+                "Help Center cripto"
+            ]
+        }
+    ],
+    "carrusel": [
+        {
+            "texto": "New service to the world",
+            "url": "/Applin.PNG",
+            "alt": "texto alternativo"
+        },
+        {
+            "texto": "New service to the world",
+            "url": "/Melenaleteo.PNG",
+            "alt": "texto alternativo"
+        },
+        {
+            "texto": "New service to the world",
+            "url": "/Ferropolilla.PNG",
+            "alt": "texto alternativo"
+        }
+    ],
+    "footer": [
+        {
+            "titulo": "Social",
+            "links": [
+                {
+                    "titulo": "youtube",
+                    "url": "http://youtube.com"
+                },
+                {
+                    "titulo": "twitter",
+                    "url": "http://twitter.com"
+                },
+                {
+                    "titulo": "facebook",
+                    "url": "http://facebook.com"
+                }
+            ]
+        },
+        {
+            "titulo": "Help",
+            "links": [
+                {
+                    "titulo": "youtube",
+                    "url": "http://youtube.com"
+                },
+                {
+                    "titulo": "twitter",
+                    "url": "http://twitter.com"
+                },
+                {
+                    "titulo": "facebook",
+                    "url": "http://facebook.com"
+                }
+            ]
+        }
+    ]
+}
