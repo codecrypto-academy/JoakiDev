@@ -1,0 +1,2 @@
+- No puedo ejecutar el comando "helm install hlf-operator --version=1.7.0 kfs/hlf-operator"
+    RESULTADO: Error: INSTALLATION FAILED: repo kfs not found
