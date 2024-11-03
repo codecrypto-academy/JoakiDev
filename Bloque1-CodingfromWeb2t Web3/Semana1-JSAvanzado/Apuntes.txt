@@ -1,0 +1,22 @@
+1. JS JSON
+
+Javascript trabaja con punteros, eso significa que si se igualan dos objetos del mismo tipo:
+	
+	var yourCar = myCar;
+
+No se está creando una copia independiente del objeto, sino un var que apunta a la misma dirección de memoria.
+Por lo tanto, cualquier cambio que sufra "yourCar" lo sufrirá también "myCar", y viceversa.
+
+---
+
+Se puede usar JSON.parse para convertir una cadena JSON en un objeto JS:
+
+	var cadena = '{ "make": "Ford", ...}';
+	var objeto = JSON.parse(cadena);
+
+Se puede usar JSON.stringify para el proceso contrario. Para que se vea más bonito por consola, usar "JSON.stringify(cadena, null, 4)".
+4 es el número de indentado.
+----------------------------
+
+2. JS FUNCIONES
+
