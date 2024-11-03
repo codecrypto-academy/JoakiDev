@@ -1,9 +1,0 @@
-GET / 304 - - 3.102 ms
-GET / 200 4 - 2.639 ms
-GET /bd 200 36 - 53.082 ms
-GET /bd 200 57 - 34.108 ms
-GET /bd 200 57 - 3.443 ms
-GET /bd 200 49 - 37.116 ms
-GET /bd/test 200 38 - 35.052 ms
-GET /bd/test 200 59 - 34.569 ms
-GET /bd/test 200 38 - 37.227 ms

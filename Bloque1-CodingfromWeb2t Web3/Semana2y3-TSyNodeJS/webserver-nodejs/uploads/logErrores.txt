@@ -1,5 +1,0 @@
-::1 - - [01/Dec/2023:07:20:08 +0000] "GET /dfd HTTP/1.1" 404 142 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
-::1 - - [02/Dec/2023:19:29:57 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3344/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
-::1 - - [02/Dec/2023:19:30:01 +0000] "GET /bdd HTTP/1.1" 404 142 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
-::1 - - [02/Dec/2023:19:35:12 +0000] "GET /bd/test HTTP/1.1" 500 260 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
-::1 - - [02/Dec/2023:19:36:50 +0000] "GET /bd/test HTTP/1.1" 500 260 "-" "PostmanRuntime/7.35.0"
